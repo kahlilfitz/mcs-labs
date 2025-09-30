@@ -399,7 +399,7 @@ For each individual question, do a separate **knowledge search** using the confi
 * Think about other ServiceNow operations (create tickets, update status) that could enhance the automation
 * Plan how you might extend this pattern to other communication channels like Teams or chat interfaces
 
-**Challenge Yoursef!. Add Teams Capabilities**:
+**Challenge Yoursef: Add Teams communication**:
 
 #### Setting Up Teams Capabilities
 
