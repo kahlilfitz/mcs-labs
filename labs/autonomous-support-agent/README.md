@@ -226,7 +226,7 @@ In this section, you'll learn how to integrate knowledge sources, configure Serv
 
 2. Choose **Public website** as your knowledge source type
 
-3. **Add** this URL: `https://support.servicenow.com/` and confirm ownership for better results
+3. **Add** this URL: `https://support.servicenow.com/` 
 
 > [!TIP]
 > You can add multiple knowledge sources including SharePoint sites, documents, and other websites relevant to your support topics.
@@ -256,6 +256,9 @@ In this section, you'll learn how to integrate knowledge sources, configure Serv
 11. For **Record Type**, set a **Custom value** and choose `Incident`
 
 12. Select **+ Add input** and choose **Query**
+
+> [!TIP]
+> If you see an error such as `Duplicate Item Detected`, select `Custom Value` from the dropdown and then select `Dynamically fill with AI` again.
 
 13. Select **Customize** and use this for **Description**:
 
